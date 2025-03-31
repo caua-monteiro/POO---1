@@ -1,0 +1,5 @@
+5. Esta correto pois como os tipos sao diferentes
+   o compilador consegue diferenciar os metodos.
+6. Deve ser declarada como public
+7. Deve ser declarado como private
+8. valor
