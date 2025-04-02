@@ -1,0 +1,7 @@
+Como a classe Notebook é uma subclasse, caso
+ambos os contrutores(Superclasse e Subclasse) não tenham
+parametros o compilador busca o construtor da classe pai
+assim a saida seria:
+Computador()
+Notebook()
+Codigo: 12345
