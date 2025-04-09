@@ -1,0 +1,7 @@
+1. Quando nao tem um construtor que diferencie o construtor da subclasse ao da super classe o
+compilador passa pela superclasse para criar o objeto. o construtor da superclasse e chamado sempre
+automaticamente para construir o objeto.
+2. Quando se usa o super com parametros puxamos o construtor da classe pai
+3. Nao, o super deve estar no inicio do construtor
+4.
+    a)
