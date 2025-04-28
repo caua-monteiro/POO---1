@@ -1,0 +1,6 @@
+Na classe oficina é determinado um metodo "proximo" que cria e retorna
+aleatoriamente, Isso ocorre por meio de um ramdom até 100, caso esse numero
+seja par um aotuomovel é criado, de outra forma uma bicicleta é criada.
+ainda na classe oficina é criado o metodo revisar que chama todas os metodos
+das subclasses de veiculos Na classe UsaOficina é chamado o metodo "proximo"
+4 vezes seguidas.
